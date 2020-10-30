@@ -12,10 +12,8 @@
   <!-- Bootstrap core CSS -->
   <link href="bootstrap.min.css"  rel="stylesheet">
 
-  
-
   <!-- Custom styles for this template -->
-  <link href="style.css"  rel="stylesheet">
+  <link href="modern-business.css"  rel="stylesheet">
 
 </head>
 
@@ -86,16 +84,15 @@
   <!-- 我们的品质 -->
   <div class="container">
     <div class="row mt80-row">
-      <div class="col-lg-5">
-        <h2 class="title-3rem mb60" style="margin-top: 60px;">我们的品质</h2>
+      <div class="col-lg-6">
+        <h2 class="title-3rem mb60" style="margin-top: 72px;"><strong> 我们的品质</strong></h2>
         <p>知行管业一直以来都以专业的态度与卓越的品质</p>
         <p>成为行业标杆。每一个员工的坚守也成就了知行</p>
         <p>管业品质保证。 </p>
       </div>
-      <div class="col-lg-7">
+      <div class="col-lg-6">
         <div class="embed-responsive embed-responsive-16by9">
           <iframe class="embed-responsive-item" src="video.mp4"  allowfullscreen="true"></iframe>
-            
         </div>
       </div>
     </div>
@@ -103,37 +100,43 @@
 
     <!-- 我们的产品 -->
     <div class="row mt80-row">
-      <div class="col-lg-12">
-        <h2 class="title-3rem mb-product">我们的产品</h2>
+      <div class="col-lg-6">
+        <h2 class="title-3rem mb60"><strong>我们的产品</strong></h2>
         <p>我们是专业的波纹管制造商，专注燃气用管安全·····</p>
+      </div>
+      <div class="col-lg-6" style="height: 169px; display: flex;">
+        <div style="padding-left:49px;align-self: flex-end; width: 150px; height: 50px;">
+          <p style="margin:4px;border:1px solid #000; background-color:#ffffff;font-size:1rem;">查阅更多·····</p>
+        </div>
       </div>
     </div>
 
 
 
-    <div class="row">
+    <div class="row mt80-row">
       <!-- Sidebar Column -->
-      <div class="col-lg-3 mb-4" style="margin-top:52px;font-size: 1rem;">
-        <p href="#"><strong>燃气用不锈钢波纹管</strong></p>
-        <p href="#">灶具管、超柔灶具管，密波管</p>
-        <p href="#">表具管、热水器连接管，输送管</p>
-        <p href="#">&nbsp;</p>
-        <p href="#"><strong>工业设备金属软管</strong></p>
-        <p href="#">泵用金属软管、车用金属软管</p>
-        <p href="#">发动机进油管</p>
-        <button class="btn-lg" style="margin-top: 50px;">查阅更多···</button>
+      <div class="col-lg-4 mb-4" style="font-size: 1.6rem;">
+        <p href="" ><strong>燃气用不锈钢波纹管</strong></p>
+        <p href="" >灶具管、超柔灶具管，密波管</p>
+        <p href="" >表具管、热水器连接管，输送管</p>
+        <p href="" ><strong>工业设备金属软管</strong></p>
+        <p href="" >泵用金属软管、车用金属软管</p>
+        <p href="" >发动机进油管</p>
       </div>
       <!-- Content Column -->
-      <div class="col-lg-9 mb-4">
+      <div class="col-lg-8 mb-4">
         <div class="row">
-          <div class="col-lg-4 col-sm-6">
+          <div class="col-lg-3 col-sm-6">
             <a href="#"><img class="card-img-top" src="首页产品图01.jpg"  alt=""></a>
           </div>
-          <div class="col-lg-4 col-sm-6">
+          <div class="col-lg-3 col-sm-6">
             <a href="#"><img class="card-img-top" src="首页产品图02.jpg"  alt=""></a>
           </div>
-          <div class="col-lg-4 col-sm-6">
+          <div class="col-lg-3 col-sm-6">
             <a href="#"><img class="card-img-top" src="首页产品图03.jpg"  alt=""></a>
+          </div>
+          <div class="col-lg-3 col-sm-6">
+            <a href="#"><img class="card-img-top" src="首页产品图04.jpg"  alt=""></a>
           </div>
         </div>
       </div>
@@ -164,119 +167,104 @@
           </a>
         </div>
       </div>
-      <div class="col-md-5 mb-4" style="padding-left: 9em;">
-        <h2 class="title-3rem margin-brand" >品牌合作</h2>
-        <div style="font-size: 17px;line-height:17px">
-          <p>知行管业与各大燃气公司、厨卫品牌形成战略合作关系，</p>
-            <p>知行人通过持续不断的技术革新和严格的质量把控，连接</p>
-            <p>着亿万美好家庭的美好新生活。</p>
+      <div class="col-md-5 mb-4" style="padding-left: 60px;">
+        <h2 class="title-3rem" style="padding-top:60px;padding-bottom:100px"><strong>品牌合作</strong></h2>
+        <div style="font-size: 1.8rem;">
+
+          <p>知行管业与各大燃气公司、厨卫品牌形成战略合作</p>
+          <p>关系，知行人通过持续不断的技术革新和严格的质</p>
+          <p>量把控，连接着亿万美好家庭的美好新生活。</p>
         </div>
       </div>
     </div>
 
     <!-- 新闻动态 -->
     <div class="row mt80-row">
-      <div class="col-lg-9">
-        <h2 class="title-3rem">新闻动态</h2>
+      <div class="col-lg-6">
+        <h2 class="title-3rem"><strong>新闻动态</strong></h2>
       </div>
-      <div class="col-lg-3">
-        <div style="padding-top: 13px;">
-        <button class="btn-lg">查阅更多···</button>
+      <div class="col-lg-6" style="padding-left:500px;height: 61px; display: flex;">
+        <div style="align-self: flex-end; width: 200px; height: 40px;">
+          <p style="border:2px solid #000; background-color:#ffffff;font-size:2rem;">查阅更多·····</p>
         </div>
       </div>
     </div>
 
     <div class="row mt80-row">
-    <div class="col-lg-4 mb-4 padding-news">
-    <article id="post-419">
-        <!-- 摘要模块 -->
-        <div class="card h-100">
-            <img width="1920" height="1080" src="news1.jpg" 
-                class="card-img-top img-fluid d-block mx-auto wp-post-image" alt="" loading="lazy"
-                srcset="news1.jpg 1920w, news1-300x169.jpg 300w, news1-1024x576.jpg 1024w, news1-768x432.jpg 768w, news1-1536x864.jpg 1536w"
-                sizes="(max-width: 1920px) 100vw, 1920px">
+      <div class="col-lg-4 mb-4">
+        <article id="post-425">
+          <!-- 摘要模块 -->
+          <div class="card h-100">
+            <img width="1366" height="768" src="n1.png"  class="card-img-top img-fluid d-block mx-auto wp-post-image" sizes="(max-width: 1366px) 100vw, 1366px">
             <div class="card-body">
-                <h3 class="card-title">
-                    <a href="index-6.htm" 
-                        rel="bookmark">新闻动态一</a> </h3>
-                <div class="card-text">
-                    <p>新闻动态一 新闻动态一新闻动态一新闻动态一新闻动态一新闻动态一新闻动态一新闻动态一新闻动态一新闻动态一 […]</p>
-                </div>
+              <h3 class="card-title">
+                <a href=""  rel="bookmark">南京知行管业有限公司CABR产品认证检查报道</a> </h3>
+              <p class="card-text">为了积极响应燃气协会的号召，更好的推动燃气行业的发展.......[…]</p>
             </div>
             <div class="card-footer">
-                <span class="posted-on"><a
-                        href="index-6.htm" 
-                        rel="bookmark"><time class="entry-date published updated"
-                            datetime="2020-10-27T21:06:09+08:00">2020年10月27日</time></a></span> <span
-                    class="text-right"><a
-                        href="index-6.htm" 
-                        rel="bookmark">阅读详情 》》</a></span> </div>
-        </div>
+            <a href="#"><span class="posted-on">2018年1月11日</span></a>
+              <a href=""  rel="bookmark">
+                <span class="right">阅读详情 》》</span>
+            </a>
+            </div>
+          </div>
 
-        <!-- <div class="entry-content"> -->
-        <!-- </div> -->
+        </article><!-- #post- -->
+      </div>
 
-
-    </article><!-- #post-419 -->
-</div>
-<div class="col-lg-4 mb-4">
-    <article id="post-34">
-        <!-- 摘要模块 -->
-        <div class="card h-100">
-            <img width="476" height="267" src="ranqiyantaohui.jpg" 
-                class="card-img-top img-fluid d-block mx-auto wp-post-image" alt="" loading="lazy"
-                srcset="ranqiyantaohui.jpg 476w, ranqiyantaohui-300x168.jpg 300w"
-                sizes="(max-width: 476px) 100vw, 476px">
+      <div class="col-lg-4 mb-4">
+        <article id="post-422">
+          <!-- 摘要模块 -->
+          <div class="card h-100">
+            <img width="2560" height="1440" src="n2.png"  class="card-img-top img-fluid d-block mx-auto wp-post-image"sizes="(max-width: 2560px) 100vw, 2560px">
             <div class="card-body">
-                <h3 class="card-title">
-                    <a href="index-7.htm"  rel="bookmark">2019合肥燃气安全研讨会</a> </h3>
-                <div class="card-text">
-                    <p>2019年12月12日中燃协安全委在安徽省合肥市召开2019 年燃气安全交流研讨会。我公司参加了本次研讨会。 […]</p>
-                </div>
+              <h3 class="card-title">
+                <a href=""  rel="bookmark">2018年南京知行管业有限公司新厂乔迁 </a> </h3>
+              <p class="card-text">新闻动态二 新闻动态二新闻动态二新闻动态二新闻动态二新闻动态二新闻动[…]</p>
             </div>
             <div class="card-footer">
-                <span class="posted-on"><a href="index-7.htm"  rel="bookmark"><time
-                            class="entry-date published"
-                            datetime="2020-10-17T21:59:17+08:00">2020年10月17日</time></a></span> <span
-                    class="text-right"><a href="index-7.htm"  rel="bookmark">阅读详情
-                        》》</a></span> </div>
-        </div>
+            <a href="#"><span class="posted-on">2020年10月27日</span></a>
+              <a href=""  rel="bookmark">
+                <span class="right">阅读详情 》》</span>
+            </a>
+            </div>
+          </div>
+        </article><!-- #post- -->
+      </div>
 
-        <!-- <div class="entry-content"> -->
-        <!-- </div> -->
+      <div class="col-lg-4 mb-4">
+        <article id="post-419">
+
+          <!-- 摘要模块 -->
 
 
-    </article><!-- #post-34 -->
-</div>
-<div class="col-lg-4 mb-4">
-    <article id="post-22">
-        <!-- 摘要模块 -->
-        <div class="card h-100">
-            <img width="503" height="283" src="yantaohui.jpg" 
-                class="card-img-top img-fluid d-block mx-auto wp-post-image" alt="" loading="lazy"
-                srcset="yantaohui.jpg 503w, yantaohui-300x169.jpg 300w"
-                sizes="(max-width: 503px) 100vw, 503px">
+
+          <div class="card h-100">
+
+            <img width="1920" height="1080" src="n3.png"  class="card-img-top img-fluid d-block mx-auto wp-post-image"sizes="(max-width: 1920px) 100vw, 1920px">
             <div class="card-body">
-                <h3 class="card-title">
-                    <a href="index-8.htm"  rel="bookmark">南京知行管业有限公司CABR产品认证</a> </h3>
-                <div class="card-text">
-                    <p>为了积极响应燃气协会的号召，更好的推动燃气行业的发展，2017年11月15日，南京知行管业有限公司向中国建筑科 […]</p>
-                </div>
+              <h3 class="card-title">
+                <a href=""  rel="bookmark">2019合肥燃气安全研讨会</a> </h3>
+              <p class="card-text">2019年12月12日中燃协安全委在安徽省合肥市召开 2019 年燃气安全交流研讨会...... […]</p>
             </div>
             <div class="card-footer">
-                <span class="posted-on"><a href="index-8.htm"  rel="bookmark"><time
-                            class="entry-date published"
-                            datetime="2020-10-17T21:47:45+08:00">2020年10月17日</time></a></span> <span
-                    class="text-right"><a href="index-8.htm"  rel="bookmark">阅读详情 》》</a></span>
+              <a href="#"><span class="posted-on">2020年10月27日</span></a>
+              <a href=""  rel="bookmark">
+                <span class="right">阅读详情 》》</span>
+            </a>
             </div>
-        </div>
-
-        <!-- <div class="entry-content"> -->
-        <!-- </div> -->
+          </div>
 
 
-    </article><!-- #post-22 -->
-</div>
+
+
+
+          <!-- <div class="entry-content"> -->
+          <!-- </div> -->
+
+
+        </article><!-- #post- -->
+      </div>
     </div>
   </div>
   </div>
@@ -291,44 +279,49 @@
 <footer>
   <div class="container" style="width:1500px;background-color: rgba(0, 0, 0, 0);">
     <div class="row mt80-row">
-      <div class="col-lg-8">
+      <div class="col-lg-7">
         <div class="row">
           <div class="col-md-4 col-sm-6 mb-4">
-            <ul class="text-footer-red">关于我们</ul>
+            <ul class="text-danger navbar-nav"><strong>关于我们</strong></ul>
             <li> <a href="index-1.htm" >企业大事记</a></li>
-            <li> <a href="index-9.htm" >人和文化</a></li>
-            <li> <a href="index-10.htm" >企业宣传片</a></li>
-            <li> <a href="index-11.htm" >企业资质</a></li>
-            <li> <a href="index-12.htm" >企业风貌</a></li>
+            <li> <a href="" >人和文化</a></li>
+            <li> <a href="" >企业宣传片</a></li>
+            <li> <a href="" >企业资质</a></li>
+            <li> <a href="" >企业风貌</a></li>
           </div>
 
           <div class="col-md-4 col-sm-6 mb-4">
-            <ul class="text-footer-red">产品展示</ul>
+            <ul class="text-danger navbar-nav"><strong>产品展示</strong></ul>
             <li> <a href="index-2.htm" >主打产品推介</a></li>
           </div>
 
           <div class="col-md-4 col-sm-6 mb-4">
+<<<<<<< HEAD:index.htm
             <ul class="text-footer-red">诚招英才</ul>
             <li> <a href="index.html" >人才招聘</a></li>
+=======
+            <ul class="text-danger navbar-nav"><strong>诚招英才</strong></ul>
+            <li> <a href="index.htm" >人才招聘</a></li>
+>>>>>>> 15935c59513d2bb4e3fb5008dc6fa6c5323fd04a:index.html.bak
           </div>
         </div>
       </div>
 
 
-      <div class="col-lg-4 col-md-5 col-sm-6 mb-4">
-        <ul class="text-footer-red">联系我们</ul>
-        <li style="margin-top: 1.5rem;"></li>
-        <li>地址：南京市溧水区经济开发区沂湖路18号</li>
-        <li>电话：张先生 18018069008，吴先生 18018069011</li>
-        <li>电话：025-56216605</li>
-        <li>传真：025-56216604</li>
+      <div class="col-md-5 col-sm-6 mb-4" style="font-size: 1.5rem;">
+        <p class="text-danger navbar-nav"><strong>联系我们</strong></p>
+        <p>地址：南京市溧水区经济开发区沂湖路18号</p>
+        <p>电话：张先生 18018069008，吴先生 18018069011</p>
+        <p>电话：025-56216605</p>
+        <p>传真：025-56216604</p>
+        <p>微信公众号<span style="color: honeydew;">____________</span>手机淘宝二维码</p>
         <img src="qr.png" >
       </div>
     </div>
 
 
     <p class="m-0 text-center text-white" style="padding-bottom:10rem;">Copyright © Your Website 2020</p>
-  </div>  <!-- /.container -->
+    <!-- /.container -->
 </footer>
 
 
